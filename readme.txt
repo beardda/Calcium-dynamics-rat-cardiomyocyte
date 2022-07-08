@@ -1,7 +1,7 @@
 Source codes for model associated with:
 "Computational analysis of the regulation of Ca2+ dynamics in rat ventricular myocytes"
-
-Authors: Scott M Bugenhagen and Daniel A Beard
+Scott M Bugenhagen and Daniel A Beard 2015 Phys. Biol. 12 056008
+https://iopscience.iop.org/article/10.1088/1478-3975/12/5/056008
 
 Files:
 1) CalciumModel_withBARLCCPLB_withoutCaMK.m
